@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>位置</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#87CAFF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#87CAFF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-858.000000, -278.000000)" fill-rule="nonzero">
+            <g id="位置" transform="translate(856.000000, 277.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8,1 C4.7875,1 2.1875,3.6 2.1875,6.8125 C2.1875,8.4 2.825,9.85 3.8625,10.9 L8,15 L12.125,10.8875 C13.1625,9.8375 13.8000449,8.4 13.8000449,6.8 C13.8125,3.6 11.2125,1 8,1 Z M10,6.175 C9.925,7.15 9.15,7.925 8.175,8 C7,8.1 6.0125,7.1625 6.0125,6.0125 C6.0125,4.9125 6.9125,4.0125 8.0125,4.0125 C9.1625,4.0125 10.1,5 10,6.175 L10,6.175 Z" id="形状" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

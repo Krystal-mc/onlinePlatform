@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>直角-右箭头-面备份 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-1807.000000, -65.000000)">
+            <g id="直角-右箭头-面" transform="translate(1803.000000, 63.000000)">
+                <g id="Group" opacity="0" stroke-width="1">
+                    <rect id="Rectangle-2" stroke="#BBBBBB" stroke-width="0.1" x="2.05" y="2.05" width="11.9" height="11.9"></rect>
+                    <rect id="Rectangle-2" stroke="#BBBBBB" stroke-width="0.1" x="1.05" y="1.05" width="13.9" height="13.9" rx="6.95"></rect>
+                    <rect id="Rectangle-3" stroke="#BBBBBB" stroke-width="0.1" x="3.05" y="1.05" width="9.9" height="13.9"></rect>
+                    <rect id="Rectangle-4" stroke="#BBBBBB" stroke-width="0.1" x="1.05" y="3.05" width="13.9" height="9.9"></rect>
+                    <line x1="8" y1="0" x2="8" y2="16" id="Rectangle-5" stroke="#BBBBBB" stroke-width="0.1"></line>
+                    <line x1="0" y1="8" x2="16" y2="8" id="Rectangle-6" stroke="#BBBBBB" stroke-width="0.1"></line>
+                    <rect id="Rectangle-8" stroke="#979797" stroke-width="0.1" x="4.05" y="4.05" width="7.9" height="7.9"></rect>
+                </g>
+                <path d="M5.76787739,2.33999991 L11.4247316,7.99685416 L10.3640715,9.05751434 L10.3590991,9.05299991 L5.76375925,13.6497758 L4.70309908,12.5891156 L9.29909908,7.99199991 L4.70721722,3.40066009 L5.76787739,2.33999991 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

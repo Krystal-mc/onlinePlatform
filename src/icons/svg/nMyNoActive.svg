@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="21px" viewBox="0 0 16 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>我的未选中*</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-303.000000, -703.000000)">
+            <g id="我的未选中*" transform="translate(304.000000, 704.000000)">
+                <g id="我的-未选中">
+                    <circle id="椭圆形" stroke="#333333" cx="7" cy="7" r="7"></circle>
+                    <path d="M10.7390144,13 L12.6660808,15.8905996 C13.2787857,16.809657 13.030438,18.0513957 12.1113806,18.6641006 C11.7828456,18.8831239 11.3968302,19 11.0019802,19 C8.64910036,19 7.90763618,19 6.73119624,19 M3,19 C1.8954305,19 1,18.1045695 1,17 C1,16.60515 1.11687605,16.2191346 1.33589941,15.8905996 L3.26296582,13" id="形状" stroke="#333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="矩形" fill="#999999" x="4" y="4" width="1" height="3" rx="0.5"></rect>
+                    <rect id="矩形备份" fill="#999999" x="9" y="4" width="1" height="3" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

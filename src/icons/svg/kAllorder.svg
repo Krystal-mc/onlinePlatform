@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>订单</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#87CAFF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-298.000000, -261.000000)">
+            <g id="订单" transform="translate(298.000000, 261.000000)">
+                <circle id="椭圆形-copy-10备份" fill="#0091FF" opacity="0.104701451" cx="15" cy="15" r="15"></circle>
+                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="4" y="4" width="22" height="22"></rect>
+                <path d="M13.4416667,7.66666667 C13.7166667,7.11666667 14.3583333,6.75 15,6.75 C15.6416667,6.75 16.2833333,7.11666667 16.5583333,7.66666667 L19.5,7.66666667 C20.0522847,7.66666667 20.5,8.11438192 20.5,8.66666667 L20.5,22.25 C20.5,22.8022847 20.0522847,23.25 19.5,23.25 L10.5,23.25 C9.94771525,23.25 9.5,22.8022847 9.5,22.25 L9.5,8.66666667 C9.5,8.11438192 9.94771525,7.66666667 10.5,7.66666667 L13.4416667,7.66666667 L13.4416667,7.66666667 Z" id="路径" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="13.1666667 9.5 16.8333333 9.5 16.8333333 10.4166667 13.1666667 10.4166667 13.1666667 9.5"></polygon>
+                <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="13.1666667 13 16.8333333 13 16.8333333 14 13.1666667 14 13.1666667 13"></polygon>
+                <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="13.1666667 16 16.8333333 16 16.8333333 17 13.1666667 17 13.1666667 16"></polygon>
+                <polygon id="路径备份" fill="#FFFFFF" fill-rule="nonzero" points="13.1666667 19 16.8333333 19 16.8333333 20 13.1666667 20 13.1666667 19"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

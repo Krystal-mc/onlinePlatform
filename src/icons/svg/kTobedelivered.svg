@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>待发货</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#87CAFF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-120.000000, -270.000000)">
+            <g id="待发货" transform="translate(114.000000, 262.000000)"></g>
+            <g id="待发货" transform="translate(120.000000, 269.000000)" fill-rule="nonzero">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M15.813,14.014 C15.813,14.334 15.553,14.594 15.233,14.594 L0.705,14.594 C0.384674845,14.594 0.125,14.3343252 0.125,14.014 L0.125,4.768 C0.125,4.448 0.385,4.188 0.705,4.188 L3.063,4.188 L3.104,9.25 C3.104,9.25 3.208,9.709 3.479,9.646 C3.772,9.579 4.896,8.604 4.896,8.604 C4.896,8.604 6.007,9.648 6.271,9.625 C6.5,9.604 6.667,9.25 6.667,9.25 L6.647,4.187 L15.233,4.187 C15.553,4.187 15.813,4.447 15.813,4.767 L15.813,14.014 Z" id="形状" fill="url(#linearGradient-1)"></path>
+                <path d="M15.813,2.594 C15.813,3.14628475 15.3652847,3.594 14.813,3.594 L1.156,3.594 C0.60371525,3.594 0.156,3.14628475 0.156,2.594 L0.156,2.406 C0.156,1.85371525 0.60371525,1.406 1.156,1.406 L14.812,1.406 C15.3642847,1.406 15.812,1.85371525 15.812,2.406 L15.812,2.594 L15.813,2.594 Z" id="路径" fill="#0091FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

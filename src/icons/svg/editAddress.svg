@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>232编辑、输入</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#87CAFF" offset="0%"></stop>
+            <stop stop-color="#0091FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-205.000000, -517.000000)" fill-rule="nonzero">
+            <g id="232编辑、输入" transform="translate(204.000000, 515.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M10.725,3.5 C10.625,3.4 10.625,3.25 10.725,3.15 L11.7875,2.0875 C11.8875,1.9875 12.0375,1.9875 12.1375,2.0875 L13.9,3.85 C14,3.95 14,4.1 13.9,4.2 L12.8375,5.2625 C12.7375,5.3625 12.5875,5.3625 12.4875,5.2625 L10.725,3.5 Z M6,12.125 L11.8125,6.3125 C11.9,6.225 11.8875,6.075 11.7875,5.9875 L10.025,4.2125 C9.925,4.1125 9.775,4.1 9.7,4.1875 L3.875,10 L3,13 L6,12.125 Z M1,14 L1,15 L15,15 L15,14 L1,14 Z" id="形状" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
