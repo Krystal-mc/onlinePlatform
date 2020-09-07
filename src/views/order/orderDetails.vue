@@ -90,7 +90,7 @@
             </template>
             <template #value>
               <div class="valueBox">
-                <span v-if="item1.convertType === 1" class="noShop"> 已付款</span>
+                <span v-if="item1.convertType === 1 && orderDetails.orderStatus === 2 && item1.status === 1" class="noShop"> 已付款</span>
                 <span v-else class="noShop" :class="item1.status === 1?'noUse':''"> {{ couponCodeMap(item1.status) }} </span>
               </div>
             </template>
