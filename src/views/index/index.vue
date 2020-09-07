@@ -1,6 +1,6 @@
 <template>
   <div class="indexContainer clearfix">
-    这是测试首页
+    这是测试首页999999999
     <a class="logout" @click="logout">退出</a>
     <van-button @click="chooseImage">选图</van-button>
     <br>
